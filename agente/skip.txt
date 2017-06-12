@@ -1,0 +1,15 @@
+javax.
+java.
+sun.
+com.sun.
+javassist.
+avrora.sim.RWRegister
+org.apache.fop.fo
+org.apache.commons.io
+org.apache.lucene.store
+METODOS
+org.h2.jdbc.JdbcStatement.checkClosed
+org.h2.result.Row.setPos
+org.apache.xpath.axes.ChildTestIterator.setRoot
+fft.FFT.transform_internal
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="agente/ml4jit.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/agente/ml4jit.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" manifestLocation="/agente/META-INF/MANIFEST.MF" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=agente/src&lt;ml4jit.counter"/>
+        <javaElement handleIdentifier="=agente/src&lt;ml4jit"/>
+        <javaElement handleIdentifier="=agente/src&lt;ml4jit.ml"/>
+        <javaElement handleIdentifier="=agente/src&lt;ml4jit.training"/>
+        <folder path="/agente/META-INF"/>
+    </selectedElements>
+</jardesc>
